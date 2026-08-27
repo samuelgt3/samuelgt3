@@ -1,8 +1,5 @@
-<div style="margin-left:auto; margin-right:auto;">
 
 ![Hi There! I'm Sami](images/git_intro.gif)
-
-</div>
 
 # About Me
 
@@ -25,5 +22,7 @@
 
 # Contact Me
 
-![Linkedin](images/LinkedIn_icon.svg.webp)(https://linkedin.com/in/samuel-tadele)
-![Gmail](images/google_mail_gmail_logo_icon_159346.png)(mailto:samueltadele878@gmail.com)
+<div style="height:10%; margin:auto">
+[![Linkedin](images/LinkedIn_icon.svg.webp)](https://linkedin.com/in/samuel-tadele)
+[![Gmail](images/google_mail_gmail_logo_icon_159346.png)](mailto:samueltadele878@gmail.com)
+</div>
