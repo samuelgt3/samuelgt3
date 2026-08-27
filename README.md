@@ -23,6 +23,6 @@
 # Contact Me
 
 <div style="height:10%; margin:auto">
-[![Linkedin](images/LinkedIn_icon.svg.webp)](https://linkedin.com/in/samuel-tadele)
-[![Gmail](images/google_mail_gmail_logo_icon_159346.png)](mailto:samueltadele878@gmail.com)
+[![Linkedin](images/LinkedIn_icon.svg.webp)] (https://linkedin.com/in/samuel-tadele)&nbsp;
+[![Gmail](images/google_mail_gmail_logo_icon_159346.png)] (mailto:samueltadele878@gmail.com)
 </div>
