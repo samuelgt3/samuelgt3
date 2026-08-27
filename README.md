@@ -1,16 +1,15 @@
 <div style="margin-left:auto; margin-right:auto;">
 
-![Hi There! I'm Sami](git_intro.gif)
+![Hi There! I'm Sami](images/git_intro.gif)
 
 </div>
 
 # About Me
 
-<ul>
-  <li>🎓 Junior Computer Science and Math double major at College of Wooster </li>
-  <li>👾 Passionate about web dev, backend engineering </li>
-  <li>🎧 My hobbies include listening to and playing music, watching movies, and running </li>
-</ul>
+- 🎓 Junior Computer Science and Math double major at College of Wooster 
+- 👾 Passionate about web dev, backend engineering, and programming solutions to day to day problems
+- 🎧 Hobbies include listening to and playing music, watching movies, and running
+
 
 # Tech Stack
 
@@ -22,8 +21,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Node Current](https://img.shields.io/node/v/react)
-![React]
-![R]
-![MongoDB]
-![Docker]
-![AWS]
+
+
+# Contact Me
+
+![Linkedin](images/LinkedIn_icon.svg.webp)(https://linkedin.com/in/samuel-tadele)
+![Gmail](images/google_mail_gmail_logo_icon_159346.png)(mailto:samueltadele878@gmail.com)
