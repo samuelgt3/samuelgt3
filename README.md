@@ -23,7 +23,7 @@
 # Contact Me
 
 <div style="height:10%; margin:auto">
-<a href="ttps://linkedin.com/in/samuel-tadele" rel="some text">![Linkedin](images/LinkedIn_icon.svg.webp)</a>
+<a href="ttps://linkedin.com/in/samuel-tadele" rel="some text"><img src="images/LinkedIn_icon.svg.webp" alt="LinkedIn" /></a>
 [![Linkedin](images/LinkedIn_icon.svg.webp)] ("https://linkedin.com/in/samuel-tadele")&nbsp;
 [![Gmail](images/google_mail_gmail_logo_icon_159346.png)] ("mailto:samueltadele878@gmail.com")
 </div>
